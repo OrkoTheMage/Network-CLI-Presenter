@@ -209,7 +209,7 @@ function colorDiagram(diagram, diagramIndex = 0, hashLineIndex = 0, chalk, blink
       'blocked port (BP)'
     ],
     5: [
-      "| At least I think they're fun... don't @ me |",
+      "| At least I think they're fun... |",
       'Dr. Radia Perlman',
       'An Anlogrithm for Distributed Computation of a Spanning Tree in an Extended LAN',
       '1985',

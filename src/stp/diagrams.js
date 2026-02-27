@@ -228,7 +228,7 @@ const factsScreen = `
                             │                                                         │             
                             └─────────────────────────────────────────────────────────┘     
                                   
-                                  | At least I think they're fun... don't @ me |
+                                        | At least I think they're fun... |
 
 
 # STP was invented in 1985 by Dr. Radia Perlman and first presented in a research paper titled “An Algorithm for Distributed Computation of a Spanning Tree in an Extended LAN”, long before modern presentation software existed
