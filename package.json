@@ -1,5 +1,5 @@
 {
-  "name": "stp-presentation",
+  "name": "network-cli-presenter",
   "version": "1.0.0",
   "type": "module",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Network CLI Presenter — terminal-based presentations for network engineering",
   "dependencies": {
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.11.0",

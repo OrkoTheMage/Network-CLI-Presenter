@@ -1,6 +1,6 @@
-# stp-presentation
+# Network CLI Presenter
 
-Interactive CLI / ASCII presentation tool. Displays presentations as ASCII diagrams in the terminal with keyboard-driven navigation. Currently contains a presentation on STP; more presentations will be added.
+Network CLI Presenter — terminal-based presentations for network engineering. Displays presentations as ASCII diagrams in the terminal with keyboard-driven navigation. Supports multiple presentations and a presentation selector; the repository currently includes an example presentation on STP.
 
 ## Features
 - Interactive, terminal-first presentations rendered as ASCII diagrams
