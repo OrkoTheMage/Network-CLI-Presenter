@@ -7,9 +7,9 @@ import { populateState } from './state.js'
 import { showHashLine } from './renderer.js'
 import chalk from 'chalk'
 
-startDemo(chalk)
+startStpPresentation(chalk)
 
-function startDemo(chalk) {
+function startStpPresentation(chalk) {
   const { screen, box } = createUI()
 
   const state = {
