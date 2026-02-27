@@ -294,6 +294,8 @@ const factsScreen = `
 
 
                                                   
-                                                | CTRL+C to Exit |  
-                                                                   `
- export const diagrams = [startScreen, baseDiagram, bpduDiagram, rbDiagram, portDiagram, factsScreen, thankYouScreen]
+                                                | CTRL+C to Exit |
+                                                  
+                            Repository: https://github.com/OrkoTheMage/Network-CLI-Presenter
+`
+export const diagrams = [startScreen, baseDiagram, bpduDiagram, rbDiagram, portDiagram, factsScreen, thankYouScreen]
