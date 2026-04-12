@@ -62,3 +62,6 @@ Key source files:
 
 ## Current content
 - Presentation on STP. More presentations will be added in future updates.
+
+## Credit
+Aeryn G (OrkoTheMage)
